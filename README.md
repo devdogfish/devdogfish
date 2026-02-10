@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on YoungDriversAcademy's web app
 - 🌱 I’m currently learning Calculus & Discrete math.
-- 🔧 I like working with people who enjoy building and iterating.
+- ⚙️ I like building things that remove friction and help people stay organized.
 
 
 ---
