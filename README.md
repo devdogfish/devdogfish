@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on YoungDriversAcademy's web app
-- 🌱 I’m currently learning Calculus & Discrete math.
+- 🔭 I’m currently working for RBC Capital Markets
+- 🌱 I’m currently learning how to manage my own infrastructure (Linux servers).
 - ⚙️ I like building things that remove friction and help people stay organized.
 
 
