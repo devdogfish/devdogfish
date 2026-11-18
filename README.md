@@ -3,6 +3,7 @@
 - 👨‍💼 I’m currently working for RBC Capital Markets
 - 🌱 I’m currently learning how to manage my own infrastructure (Linux servers).
 - ⚙️ I like building things that remove friction and help people stay organized.
+- [Portfolio](https://girke.dev/r/WKcqFQzb)
 
 
 ---
